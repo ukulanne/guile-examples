@@ -5,7 +5,7 @@
 ;; Anne Summers                  ;;
 ;; <ukulanne@gmail.com>          ;;
 ;; March 8, 2019                 ;;
-;; Guile web app server example  ;;
+;; Guile singal example          ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
