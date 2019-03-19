@@ -28,7 +28,7 @@
 (use-modules (srfi srfi-19) (web server) (web request)
 	     (web response) (web uri))
   
-  (define SERVER-VERSION "Server Version 0.27")
+(define SERVER-VERSION "Server Version 0.27")
 (define GUILE-VERSION "\nguile (GNU Guile) 2.0.11")
 (define VERSION (string-append SERVER-VERSION GUILE-VERSION))
 (define SERVER-PORT 8081)
